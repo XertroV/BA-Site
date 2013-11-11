@@ -39,6 +39,7 @@
 .bio {
 	display: block;
     position: relative;
+    min-height: 300px;
 }
 
 .bio .imgdiv {
@@ -47,13 +48,13 @@
     display: block;
     float: left;
     margin-bottom: 30px;
-    height: 230px;
     overflow: hidden;
 }
 
 .bio .imgdiv img {
 	width: 300px;
 	height: auto;
+	max-height: 250px;
 }
 
 .bio p {
