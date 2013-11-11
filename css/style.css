@@ -46,6 +46,9 @@
 	margin-right: 20px;
     display: block;
     float: left;
+    margin-bottom: 30px;
+    height: 230px;
+    overflow: hidden;
 }
 
 .bio .imgdiv img {
@@ -72,8 +75,8 @@
 }
 
 #memberForm .membershipTier {
-	padding: 15px;
-	font-size: 24px;
+	padding: 10px;
+	font-size: 20px;
 	display: block;
 	text-align: left;
 	
