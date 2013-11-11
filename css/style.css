@@ -39,6 +39,7 @@
 .bio {
 	display: block;
     position: relative;
+    min-height: 300px;
 }
 
 .bio .imgdiv {
@@ -46,6 +47,9 @@
 	margin-right: 20px;
     display: block;
     float: left;
+    margin-bottom: 30px;
+    overflow: hidden;
+	max-height: 250px;
 }
 
 .bio .imgdiv img {
@@ -72,8 +76,8 @@
 }
 
 #memberForm .membershipTier {
-	padding: 15px;
-	font-size: 24px;
+	padding: 10px;
+	font-size: 20px;
 	display: block;
 	text-align: left;
 	
