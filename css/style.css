@@ -115,6 +115,22 @@
 	display:none;
 }
 
+#foundingMemberAlert {
+	text-align: justify;
+	background: #CCC;
+	text-shadow: none;
+	color: #333;
+	padding: 15px;
+}
+
+#foundingMemberAlert h4 {
+	color: #333;
+}
+
+#foundingMemberAlert p {
+	margin-bottom: 0px;
+}
+
 /*********************************************************************************/
 /* Basic                                                                         */
 /*********************************************************************************/
